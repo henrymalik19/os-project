@@ -1,0 +1,1 @@
+qemu-system-riscv64 -machine virt -bios default -kernel build/kernel.elf -nographic 
